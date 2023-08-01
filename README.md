@@ -1,3 +1,3 @@
-﻿# itstimetoletmebe
+﻿# imaconcretewall
 
 Este é um projeto pessoal chamado 'I'm a Concrete Wall' (inspirado na canção 'Smoke Signals' da cantora Phoebe Bridgers), no qual represento, por meio de um mosaico de fotos, várias pessoas, desde familiares até artistas, também livros e filmes, que ajudaram a moldar quem sou hoje. Trata-se de uma experiência digital e interativa em que o usuário pode escolher a ordem das fotos e interagir com elas. Além disso, escondido por trás das fotos, há um poema intitulado 'Fruto de Mim', no qual exploro um pouco sobre como todas as pessoas e meios artísticos representados nas fotos formaram e representam 100% do que sou.
